@@ -1,0 +1,16 @@
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\bin\Debug\net5.0\AdventOfCodeDayThree.exe
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\bin\Debug\net5.0\AdventOfCodeDayThree.deps.json
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\bin\Debug\net5.0\AdventOfCodeDayThree.runtimeconfig.json
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\bin\Debug\net5.0\AdventOfCodeDayThree.runtimeconfig.dev.json
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\bin\Debug\net5.0\AdventOfCodeDayThree.dll
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\bin\Debug\net5.0\ref\AdventOfCodeDayThree.dll
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\bin\Debug\net5.0\AdventOfCodeDayThree.pdb
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.csproj.AssemblyReference.cache
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.AssemblyInfoInputs.cache
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.AssemblyInfo.cs
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.csproj.CoreCompileInputs.cache
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.dll
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\ref\AdventOfCodeDayThree.dll
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.pdb
+C:\Users\manoel.vitor\Desktop\teste\DayThree\AdventOfCodeDayThree\AdventOfCodeDayThree\obj\Debug\net5.0\AdventOfCodeDayThree.genruntimeconfig.cache
